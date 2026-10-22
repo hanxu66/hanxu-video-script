@@ -1,3 +1,4 @@
+# Manual runs can verify a newly published distribution.
 name: Skill checks
 
 on: [push, pull_request, workflow_dispatch]
